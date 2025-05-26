@@ -2,8 +2,6 @@
 
 **A Comparative Study of Immigration Attitudes Across Four Countries**
 
----
-
 ## Project Overview
 
 Immigration has become one of the most contentious political issues worldwide, generating significant public backlash and policy instability across democratic societies. Scholarly debate has largely centered on two competing explanations: group threat theory (dominant groups react defensively when immigration threatens cultural identity, national character, or established social hierarchies) and economic competition theory (attitudes driven by perceived individual economic threats like job competition, or sociotropic concerns about national economic impacts). However, recent work by Levy and Wright (2020) introduced a third perspective: "civic fairness" – the idea that Americans evaluate immigration through moral principles of legal compliance and equal opportunity, potentially overriding both group-based concerns and economic calculations.
