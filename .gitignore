@@ -1,0 +1,28 @@
+# Data files (keep raw data secure)
+data/raw/*.csv
+data/raw/*.xlsx
+data/raw/*.sav
+
+# Survey platform credentials
+surveys/config/credentials.json
+surveys/config/.env
+
+# Analysis outputs that can be regenerated
+analysis/outputs/*.png
+analysis/outputs/*.pdf
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# R/Python specific
+.Rproj.user/
+.Rhistory
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Sensitive admin files
+admin/budget/sensitive_*
+admin/ethics/participant_data*
