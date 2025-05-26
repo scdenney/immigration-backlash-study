@@ -68,6 +68,6 @@ When ready and approprirate for release, this repository will contain:
 
 ## Contact
 
-**Steven C. Denney**  
+**Steven Denney**  
 Email: s.c.denney@hum.leidenuniv.nl
 
