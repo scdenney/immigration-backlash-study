@@ -24,8 +24,8 @@ Using experimental surveys across the United States, Canada, Germany, and South 
 
 **Case Selection**: Four democracies chosen to represent different challenges to democratic immigration governance:
 - **United States**: Asylum system overwhelmed by massive case backlogs and relaxed enforcement, raising questions about procedural fairness and institutional capacity
-- **Germany**: Tensions between humanitarian obligations and democratic control, with citizens questioning whether supranational human rights interpretations undermine national sovereignty  
 - **Canada**: Historically successful multicultural model facing new strains from rapid immigration increases and housing/service pressures
+- **Germany**: Tensions between humanitarian obligations and democratic control, with citizens questioning whether supranational human rights interpretations undermine national sovereignty  
 - **South Korea**: Non-Western democracy where immigration challenges traditional ethnic homogeneity assumptions, testing whether fairness principles operate beyond Western contexts
 
 ## Timeline & Outputs
