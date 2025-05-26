@@ -50,7 +50,7 @@ Understanding the psychological and political drivers of immigration attitudes c
 **Grant Program**: SSH - XS 2025 Round 1  
 **Award Amount**: €50,000
 
-**Principal Investigator**: Steven C. Denney  
+**Principal Investigator**: Steven Denney  
 **Institution**: Leiden University
 
 ## Project Status
