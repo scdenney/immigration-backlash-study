@@ -33,7 +33,7 @@ Using experimental surveys across the United States, Canada, Germany, and South 
 **Duration**: 12 months (2025-26)
 
 **Expected Deliverables**:
-- Academic publications in peer-reviewed journals
+- Academic publication in peer-reviewed journal
 - Policy brief for immigration policymakers
 - Public engagement through media and conferences
 
