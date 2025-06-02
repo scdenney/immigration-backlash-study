@@ -12,6 +12,7 @@ This project uses experimental surveys across the United States, Germany, South 
 
 - **Do fairness perceptions drive immigration attitudes across different countries?**
 - **How do fairness considerations interact with cultural and economic concerns?**
+- **How do publics respond to perceived failures of immigration control, and does civic fairness mediate this backlash?**
 - **What are the implications for sustainable immigration policy?**
 
 ## Methodology
