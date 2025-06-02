@@ -2,11 +2,9 @@
 
 ## Project Overview
 
-Immigration has become one of the most contentious political issues in democracies today, generating significant public backlash and policy instability. Scholarly debate has largely centered on two competing explanations for immigration attitudes: **group threat theory** (dominant groups react defensively when immigration threatens cultural identity, national character, or established social hierarchies) and **economic competition theory** (attitudes driven by perceived individual economic threats like job competition, or sociotropic concerns about national economic impacts). However, recent work by Levy and Wright (2020) on American attitudes toward immigration introduces a third perspective: "civic fairness" – the idea that publics (Americans, in this case) evaluate immigration through moral principles of legal compliance and equal opportunity, potentially overriding both group-based concerns and economic calculations.
+Immigration has become one of the most contentious political issues in democracies today, generating significant public backlash and policy instability. Scholarly debate has largely centered on two competing explanations for immigration attitudes: group threat theory (dominant groups react defensively when immigration threatens cultural identity, national character, or established social hierarchies) and economic competition theory (attitudes driven by perceived individual economic threats like job competition, or sociotropic concerns about national economic impacts). However, recent work by Levy and Wright (2020) on American attitudes toward immigration introduces a third perspective: "civic fairness" – the idea that publics (Americans, in this case) evaluate immigration through moral principles of legal compliance and equal opportunity, potentially overriding both group-based concerns and economic calculations. Levy and Wright argue that civic fairness is rooted in distinctly American legal, normative, and institutional expectations. This project asks whether that logic resonates elsewhere, or whether the U.S. is truly exceptional.
 
-This research project builds on and extends the civic fairness framework by examining whether fairness perceptions override, complement, or contradict group threat and economic considerations across different democratic contexts. Do publics support immigration policies they perceive as fair, even when they challenge cultural boundaries? Do they oppose immigration they see as unfair even when it benefits the national economy? And do these fairness-based moral judgments operate similarly across countries with different institutional arrangements, civic legacies, and immigration histories?
-
-This project uses experimental surveys across the United States, Canada, Germany, and South Korea to provide a systematic cross-national test of whether civic fairness represents a distinct driver of immigration attitudes.
+This project uses experimental surveys across the United States, Germany, South Korea, and Singapore to provide a unique, systematic cross-national test of whether civic fairness represents a distinct driver of immigration attitudes.
 
 **Keywords**: Immigration attitudes, public opinion, comparative politics, experimental research, policy analysis
 
@@ -22,9 +20,9 @@ This project uses experimental surveys across the United States, Canada, Germany
 
 **Case Selection**: Four democracies chosen to represent different contemporary challenges to democratic immigration governance:
 - **United States**: Asylum system overwhelmed by massive case backlogs and relaxed enforcement, raising questions about procedural fairness and institutional capacity
-- **Canada**: Historically successful multicultural model facing new strains from rapid immigration increases, changes to points-based immigration regime, and housing/service pressures
 - **Germany**: Tensions between humanitarian obligations and democratic control, with citizens questioning whether supranational human rights interpretations undermine national sovereignty  
 - **South Korea**: Non-Western democracy where immigration challenges traditional ethnic homogeneity assumptions, testing whether fairness principles operate beyond Western contexts
+- **Singapore**: Electoral authoritarian regime with high levels of labor migration and state-led meritocratic integration narratives, offering a critical contrast to test how civic fairness operates in a non-democratic but high-capacity setting
 
 ## Timeline & Outputs
 
