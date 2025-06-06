@@ -17,7 +17,7 @@ This project uses experimental surveys across the United States, Germany, South 
 
 ## Methodology
 
-**Comparative Experimental Design**: Online surveys with approximately 2,000 respondents per country, using vignette experiments that present policy scenarios requiring trade-offs between different priorities.
+**Comparative Experimental Design**: Online surveys with approximately 2,000 respondents per country, using vignette experiments that present immigration policy scenarios requiring trade-offs between different priorities.
 
 **Case Selection**: Four democracies chosen to represent different contemporary challenges to democratic immigration governance:
 - **United States**: Asylum system overwhelmed by massive case backlogs and relaxed enforcement, raising questions about procedural fairness and institutional capacity
