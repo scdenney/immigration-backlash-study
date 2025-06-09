@@ -53,6 +53,7 @@ Understanding the psychological and political drivers of immigration attitudes c
 ## Project Status
 
 **Current Phase**: Pre-analysis plans, pre-registration, and pilot testing (Q2-Q3 2025)
+
 **Next Milestones**: Data collection across four countries (Q4 2025)
 
 ## Repository Contents
