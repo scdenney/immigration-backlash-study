@@ -19,7 +19,7 @@ This project uses experimental surveys across the United States, Germany, South 
 
 **Comparative Experimental Design**: Online surveys with approximately 2,000 respondents per country, using vignette experiments that present immigration policy scenarios requiring trade-offs between different priorities.
 
-**Case Selection**: Four democracies chosen to represent different contemporary challenges to democratic immigration governance:
+**Case Selection**: Four countries (three democracies, plus one hybrid regime) chosen to represent different contemporary challenges to democratic immigration governance:
 - **United States**: Asylum system overwhelmed by massive case backlogs and relaxed enforcement, raising questions about procedural fairness and institutional capacity
 - **Germany**: Tensions between humanitarian obligations and democratic control, with citizens questioning whether supranational human rights interpretations undermine national sovereignty  
 - **South Korea**: Non-Western democracy where immigration challenges traditional ethnic homogeneity assumptions, testing whether fairness principles operate beyond Western contexts
