@@ -3,6 +3,11 @@ data/raw/*.csv
 data/raw/*.xlsx
 data/raw/*.sav
 
+# Folders
+workshop/
+dmp_ethics/
+application/
+
 # Survey platform credentials
 surveys/config/credentials.json
 surveys/config/.env
