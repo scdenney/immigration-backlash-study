@@ -31,3 +31,4 @@ __pycache__/
 # Sensitive admin files
 admin/budget/sensitive_*
 admin/ethics/participant_data*
+setup-sync.sh
